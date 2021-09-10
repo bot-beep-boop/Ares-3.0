@@ -2,7 +2,7 @@
 
 Full source code of Ares Client 3.0 (beta), a "fully rewritten" client that uses "original code".
 
-Russians can't code shit...
+Germans can't code shit...
 
 Some stuff has not been remapped but you can get most of it.
 
