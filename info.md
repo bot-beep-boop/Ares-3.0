@@ -11,9 +11,9 @@
 	
 				Protection          : JObf and ProGuard
 
-				Date Of Release     : 9/921 
+				Date Of Release     :  9/921 
 
-				Author             : Asulo (oma)
+				Author              : Asulo (oma)
         
         
 
