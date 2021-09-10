@@ -8,4 +8,4 @@ Some stuff has not been remapped but you can get most of it.
 
 Why do people think superblaubeere obf is the real deal...
 
-[Information](https://github.com/xAsulo/Ares-3.0/blob/main/info.md)
+[About](https://github.com/xAsulo/Ares-3.0/blob/main/info.md)
